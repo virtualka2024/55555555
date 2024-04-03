@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Кафе корейской кухни</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать в кафе корейской кухни!</h1>
+        <nav>
+            <ul>
+                <li><a href="menu.html">Меню</a></li>
+                <li><a href="promotions.html">Акции</a></li>
+                <li><a href="about.html">О нас</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="main-content">
+        <h2>Доставка и самовывоз</h2>
+        <p>Бесплатная доставка от 8000 тенге 🤗</p>
+        <p>Рабочее время: с 12:00 до 23:00</p>
+        <p>Мы принимаем оплату через Kaspi RED</p>
+        <p>Телефон для заказа: <a href="tel:87051489883">87051489883</a></p>
+        <p>Адрес: Толстого 131/3 ВОЗЛЕ БМ</p>
+    </section>
+</body>
+</html>
